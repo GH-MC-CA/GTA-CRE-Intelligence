@@ -1,0 +1,10 @@
+Municipality_ID,Municipality,Population_2021_Forecast,Population_2051,Population_Growth_2021_2051,Growth_Percent_2021_2051,Development_Count,Reported_Units,Developments_With_Reported_Units,Developments_Without_Reported_Units
+1,"Richmond Hill",208300,320100,111800,53.7,22,,0,22
+2,Markham,349000,610500,261500,74.9,17,19480,17,0
+3,Vaughan,333100,575900,242800,72.9,14,8738,14,0
+4,Newmarket,90700,118500,27800,30.7,13,2225,10,3
+5,Aurora,64000,85800,21800,34.1,18,3815,17,1
+6,Whitchurch-Stouffville,51400,103000,51600,100.4,15,1848,10,5
+7,"East Gwillimbury",35700,128600,92900,260.2,27,4212,20,7
+8,Georgina,49100,70500,21400,43.6,22,1879,18,4
+9,King,28100,51000,22900,81.5,13,1503,10,3
